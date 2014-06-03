@@ -1,0 +1,10 @@
+name: "My Cool Jekyll Site"
+description: "my description"
+
+url: "http://laurin2001.github.io/testJekyllSite"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
