@@ -2,6 +2,7 @@ name: "My Cool Jekyll Site"
 description: "my description"
 
 url: "http://laurin2001.github.io/testJekyllSite"
+baseurl: "/testJekyllSite"
 
 paginate: 10
 
